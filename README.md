@@ -8,3 +8,5 @@ Los permisos de esta licencia copyleft más fuerte están condicionados a la pue
 English: Permissions of this strongest copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. When a modified version is used to provide a service over a network, the complete source code of the modified version must be made available.
 
 No se permite la publicación, modificación o distribución del material sin autorización expresa del autor o los autores.
+
+Linkedin: www.linkedin.com/in/alvaroascanio 
